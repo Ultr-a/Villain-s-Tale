@@ -1,0 +1,12 @@
+{
+    "name": "Villain's Tale",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "bosque_inicial",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    }
+}
