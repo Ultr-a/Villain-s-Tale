@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"battlerName":"GrupoHeroe_Lucha","characterIndex":0,"characterName":"GrupoHeroe","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"GrupoHeroe","traits":[],"initialLevel":99,"maxLevel":99,"name":"Don Cristobal","nickname":"El Salvador","note":"","profile":"Un heroe valeroso con muy pocas luces. "},
+{"id":2,"battlerName":"GrupoHeroe2_lucha","characterIndex":0,"characterName":"GrupoHeroe2","classId":3,"equips":[3,1,2,3,0],"faceIndex":0,"faceName":"GrupoHeroe2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Merlina Horus","nickname":"La Hechicera","note":"","profile":""},
+{"id":3,"battlerName":"GrupoHeroe3_Lucha","characterIndex":0,"characterName":"GrupoHeroe3","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"GrupoHeroe3","traits":[],"initialLevel":99,"maxLevel":99,"name":"San Santos","nickname":"El Sacerdote","note":"","profile":""},
+{"id":4,"battlerName":"GrupoHeroe4_Lucha","characterIndex":0,"characterName":"GrupoHeroe4","classId":2,"equips":[2,1,2,3,4],"faceIndex":0,"faceName":"GrupoHeroe4","traits":[],"initialLevel":99,"maxLevel":99,"name":"Mole Piedras","nickname":"El barbaro","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":6,"characterName":"Monster","classId":5,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Monster","traits":[],"initialLevel":99,"maxLevel":99,"name":"Severino","nickname":"El omnipotente archimago","note":"","profile":"El villano"},
+{"id":6,"battlerName":"","characterIndex":2,"characterName":"Monster","classId":6,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Monster","traits":[],"initialLevel":2,"maxLevel":99,"name":"Jamones","nickname":"","note":"","profile":""}
+]
